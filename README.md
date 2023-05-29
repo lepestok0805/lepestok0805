@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna
-- 👀 I’m interested in education
+- 👀 I’m interested IT
 - 🌱 I’m currently learning in rs.school level 0
 - 📫 How to reach me lepestok0805@mail.ru
 
