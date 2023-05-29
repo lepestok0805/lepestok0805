@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna
-- 👀 I’m interested IT
+- 👀 I’m interested veb-development
 - 🌱 I’m currently learning in rs.school level 0
 - 📫 How to reach me lepestok0805@mail.ru
 
